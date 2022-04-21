@@ -24,20 +24,21 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="index.html">Inicio</a>
+                            <a class="nav-link" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="contacto.html">Contacto</a>
+                            <a class="nav-link active" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
-                        <a class="btn btn-rojo" type="submit"><i class="fa-solid fa-file-arrow-down"></i> Descargar mi CV</a>
+                    <a class="btn btn-rojo" href="../portfolio/files/Ronald.pdf"><i class="fa-solid fa-file-arrow-down"></i> Descargar
+                                mi CV</a>
                     </div>
                 </div>
             </div>
@@ -86,7 +87,7 @@
         </div>
     </footer>
     <div class="whatsapp pt-3 pb-4 px-3">
-        <a href="https:api.whatsapp.com/send?phone=584149505089">
+        <a href="https://api.whatsapp.com/send?phone=584149505089">
     <i class="fa-brands fa-whatsapp"></i></a>
 </div>
 </body>

@@ -10,6 +10,16 @@ body {font-family: 'Montserrat', sans-serif;}
     background-repeat: no-repeat;
     background-size: 100%;
 }
+#inicio {
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#sobremi {
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 nav .nav-link{
     color: #282828;
 }
@@ -19,7 +29,7 @@ nav .active{
 }
 h1 {
     color: red;
-    font-size: 36px; 
+    font-size: 36px;
 }
 p {
     color: gray;
@@ -35,6 +45,14 @@ p {
 .btn-blanco:hover {
     color: white;
     background-color: purple;
+}
+.btn-index {
+    background-color: e333;
+    color: black;
+}
+.btn-index:hover {
+    color: white;
+    background-color: red;
 }
 .btn-rojo {
     background-color: red;
@@ -114,4 +132,25 @@ footer .fa-linkedin{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+}
+#inicio .cohete {
+    height: 400px;
+    line-height: normal;
+}
+#inicio .cohete:hover {
+    height: 420px;
+}
+#inicio .div-cohete {
+    height: 430px;
+}
+#sobremi .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+#sobremi .img-circle {
+    margin: 1em auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
 }
