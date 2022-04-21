@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {font-family: 'Montserrat', sans-serif;}
+#contacto{
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#proyectos {
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav .nav-link{
+    color: #282828;
+}
+nav .active{
+    border: 1px solid #e20000;
+    border-radius: 25px;
+}
+h1 {
+    color: red;
+    font-size: 36px; 
+}
+p {
+    color: gray;
+    font-size: 16px;
+}
+.form-control {
+    border-radius: 14px;
+}
+.btn-blanco {
+    background-color: white;
+    color: purple;
+}
+.btn-blanco:hover {
+    color: white;
+    background-color: purple;
+}
+.btn-rojo {
+    background-color: red;
+    color: white !important;
+    font-weight: 100;
+}
+.btn-rojo:hover {
+    color: white;
+    background-color: purple;
+}
+.btn {
+    border-radius: 14px;
+}
+footer, footer a{
+    color:white;
+    font-weight: 100;
+}
+footer .fa-github{
+    font-size: 30px;
+    color: #ff4a49;
+    background-color: white;
+    font-size: 20px;
+    border: 0px;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 80px;
+    margin: 0 8px;
+}
+footer .fa-linkedin{
+    color: #ff4a49;
+    background-color: white;
+    font-size: 20px;
+    border: 0px;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 80px;
+    margin: 0 8px;
+}
+.whatsapp {
+    position: fixed;
+    right: 70px;
+    bottom: 0px;
+    background-color: purple;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.fa-whatsapp{
+    font-size: 36px;
+    color: white;
+}
+.proyecto {
+    border: 1px solid gray;
+    background-color: white;
+}
+.proyecto img {
+    height: 208px;
+}
+.proyecto h2{
+    font-size: 16px;
+    color: white;
+    text-transform: uppercase;
+    background-color: #e20000;
+}
+.proyecto p{
+    font-size: 14px;
+    height: 148px;
+}
+.proyecto a {
+}
+@media (max-width: 750px){
+#contacto {
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+}
