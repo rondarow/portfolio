@@ -132,6 +132,11 @@ footer .fa-linkedin{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+#sobremi {
+        background-image: url(../images/fondo-proyectos.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
 }
 #inicio .cohete {
     height: 400px;
@@ -153,4 +158,8 @@ footer .fa-linkedin{
     background-color: #fff;
     padding: 10px;
     border-radius: 50%;
+}
+#sobremi .color-gradiente {
+    background-color: #e20000;
+    background: linear-gradient(to top, rgb(230, 139, 131) 0%, rgb(206, 78, 61) 47%, rgb(196, 42, 22) 70%, rgb(240, 34, 7) 100%)
 }

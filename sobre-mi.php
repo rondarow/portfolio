@@ -43,7 +43,6 @@
             </div>
         </nav>
     </header>
-    </header>
     <div class="container">
         <div class="row">
             <div class="col-sm-5 col-12 mt-4">
@@ -56,28 +55,118 @@
             </div>
         </div>
     </div>
-    <div class="index">
-        <div class="row">
-            <div class="col-12 text-center">
-                <p>Bienvenid@ a mi sitio web sobre docencia en sistemas.</p></a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12 text-center"><a class="btn btn-index" href="proyectos.php">Conoce mis proyectos</a>
-            </div>
-        </div>
-        <footer class="container mt-5">
-            <div class="row">
-                <div class="col-12">
-                    <i class="fa-brands fa-github"></i>
-                    <i class="fa-brands fa-linkedin"></i>
+<section id="tecnologias" class="color-gradiente pb-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="my-sm-5 text-white">Stack tecnológico</h2>
+                    </div>
+                </div>
+                <div class="row mt-sm-4 mt-0">
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>Javascript</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/js.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>PHP</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/php.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>HTML5</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/html.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>React.js</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/atom.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>jQuery</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/jquery.jpg">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>Bootstrap</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/bootstrap.png">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-sm-4 mt-0">
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>Laravel</p>
+                            <img class="img-fluid d-block mx-auto" width="88"
+                                src="../portfolio/images/laravel.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>MySQL</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/mariadb.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>CSS</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/css-3.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>Git</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/git.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>Apache</p>
+                            <img class="img-fluid d-block mx-auto" width="120"
+                                src="../portfolio/images/apache.png">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <p>Mercado pago</p>
+                            <img class="img-fluid d-block mx-auto" width="60"
+                                src="../portfolio/images/mercadopago.jpg">
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="whatsapp pt-3 pb-4 px-3">
-                <a href="https://api.whatsapp.com/send?phone=584149505089">
-                    <i class="fa-brands fa-whatsapp"></i></a>
-            </div>
-        </footer>
+        </section>
+
+
+
+    <footer class="container mt-5">
+        <div class="col-12 col-sm-3">
+            <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/ronald-pineda/"><i class="fa-brands fa-linkedin"></i>
+            </a>
+        </div>
+        </div>
+        <div class="whatsapp pt-3 pb-4 px-3">
+            <a href="https://api.whatsapp.com/send?phone=584149505089">
+                <i class="fa-brands fa-whatsapp"></i></a>
+        </div>
+    </footer>
 </body>
 
 </html>

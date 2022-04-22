@@ -59,9 +59,9 @@
                     </div>
             <footer class="container mt-5">
                 <div class="row">
-                    <div class="col-12">
-                        <i class="fa-brands fa-github"></i>
-                        <i class="fa-brands fa-linkedin"></i>
+                <div class="col-12">
+                <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i>
+                <a href="https://www.linkedin.com/in/ronald-pineda/"><i class="fa-brands fa-linkedin"></i>
                     </div>
                     </div>
             <div class="whatsapp pt-3 pb-4 px-3">

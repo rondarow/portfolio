@@ -89,16 +89,17 @@
             </div>
         </main>
         <footer class="container mt-5">
-            <div class="row">
-                <div class="col-12 col-sm-3">
-                    <i class="fa-brands fa-github"></i>
-                    <i class="fa-brands fa-linkedin"></i>
-                </div>
-                <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com"> DePC Suite</a></div>
-                <div class="col-12 col-sm-3"><a href="mailto:pineda-ronald@hotmail.com"> pineda-ronald@hotmail.com</a>
-                </div>
-            </div>
-        </footer>
+        <div class="row">
+        <div class="col-12 col-sm-3">
+                <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/ronald-pineda/"><i class="fa-brands fa-linkedin"></i>
+                </a></div>
+            <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com">
+                 DePC Suite</a></div>
+            <div class="col-12 col-sm-3"><a href="mailto:pineda-ronald@hotmail.com">
+                 pineda-ronald@hotmail.com</a></div>
+        </div>
+    </footer>
         <div class="whatsapp pt-3 pb-4 px-3">
             <a href="https://api.whatsapp.com/send?phone=584149505089">
                 <i class="fa-brands fa-whatsapp"></i></a>
