@@ -55,7 +55,7 @@
             <div class="row">
                 <div class="col-12 col-sm-4 p-3">
                     <div class="proyecto">
-                        <img src="../PORFOLIO-RONALD/images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
+                        <img src="../portfolio/images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
                         <h2 class="p-3 d-block">ABM Clientes</h2>
                         <p class="p-3 d-block">Alta, baja y modificación de un registro de clientes. Realizado en HTML,
                             CSS, PHP, Bootstrap y Json.</p>
@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-4 p-3">
-                    <div class="proyecto"><img src="../PORFOLIO-RONALD/images/abmventas.png" alt="ABM Clientes" class="img-fluid">
+                    <div class="proyecto"><img src="../portfolio/images/abmventas.png" alt="ABM Clientes" class="img-fluid">
                         <h2 class="p-3 d-block">Sistema de gestion de ventas</h2>
                         <p class="p-3 d-block">Sistema de gestion de clientes, productos y ventas, Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, JQuery y MySQL de base de datos.</p>
                         <div class="row my-5">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-4 p-3">
-                    <div class="proyecto"><img src="../PORFOLIO-RONALD/images/proyecto-integrador.png" alt="ABM Clientes" class="img-fluid">
+                    <div class="proyecto"><img src="../portfolio/images/proyecto-integrador.png" alt="ABM Clientes" class="img-fluid">
                         <h2 class="p-3 d-block">Proyecto integrador</h2>
                         <p class="p-3 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery, AJAX, HTML, CSS, Mercadopago con panel administrador, gestor de usuarios, módulo de permisos y funcionalidades a fines.</p>
                         <div class="row my-5">
