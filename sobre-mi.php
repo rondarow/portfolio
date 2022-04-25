@@ -299,16 +299,57 @@
         </div>
     </section>
 
+    <section id="hobies">
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-12 col-sm-6">
+                        <div class="row ml-sm-2 bg-white card-hobies shadow ms-sm-1">
+                            <div class="col-4 text-center card cards">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBBIES</h2>
+                                <ul>
+                                    <li>Natación</li>
+                                    <li>Patinaje</li>
+                                    <li>Canto</li>
+                                    <li>Modelaje</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-sm-6">
+                        <div class="row ml-sm-2 bg-white card-hobies shadow ms-sm-1">
+                            <div class="col-4 text-center card cards">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>Otros</h2>
+                                <ul>
+                                    <li>Peliculas</li>
+                                    <li>Anime</li>
+                                    <li>Música</li>
+                                    <li>Comer</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
     <footer class="container mt-5">
+        <div class="row">
         <div class="col-12 col-sm-3">
-            <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i></a>
-            <a href="https://www.linkedin.com/in/ronald-pineda/"><i class="fa-brands fa-linkedin"></i>
-            </a>
-        </div>
-        </div>
-        <div class="whatsapp pt-3 pb-4 px-3">
-            <a href="https://api.whatsapp.com/send?phone=584149505089">
-                <i class="fa-brands fa-whatsapp"></i></a>
+                <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/ronald-pineda/"><i class="fa-brands fa-linkedin"></i>
+                </a></div>
+            <div class="col-12 col-sm-3" style="color: red;">Sponsor <a href="https://depcsuite.com" style="color: red;">
+                 DePC Suite</a></div>
+            <div class="col-12 col-sm-3" style="color: red;"><a href="mailto:pineda-ronald@hotmail.com" style="color: red;">
+                 pineda-ronald@hotmail.com</a></div>
         </div>
     </footer>
 </body>

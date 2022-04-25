@@ -51,23 +51,27 @@
             </div>
         <div class="index">
             <div class="row">
-                    <div class="col-12 text-center"><p>Bienvenid@ a mi sitio web sobre docencia en sistemas.</p></a></div>
+                    <div class="col-12"><center><p>Bienvenid@ a mi sitio web sobre docencia en sistemas.</p></center></div>
                     </div>
             <div class="row">
                     <div class="col-12 text-center"><a class="btn btn-index" href="proyectos.php">Conoce mis proyectos</a>
                     </div>
                     </div>
-            <footer class="container mt-5">
-                <div class="row">
-                <div class="col-12">
-                <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i>
+                    <footer class="container mt-5">
+        <div class="row">
+        <div class="col-12 col-sm-3">
+                <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/ronald-pineda/"><i class="fa-brands fa-linkedin"></i>
-                    </div>
-                    </div>
+                </a></div>
+            <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com">
+                 DePC Suite</a></div>
+            <div class="col-12 col-sm-3"><a href="mailto:pineda-ronald@hotmail.com">
+                 pineda-ronald@hotmail.com</a></div>
+        </div>
+    </footer> 
             <div class="whatsapp pt-3 pb-4 px-3">
                 <a href="https://api.whatsapp.com/send?phone=584149505089">
                     <i class="fa-brands fa-whatsapp"></i></a>
             </div>
-            </footer>
         </body>
     </html>

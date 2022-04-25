@@ -94,9 +94,9 @@
                 <a href="https://github.com/rondarow/portfolio"><i class="fa-brands fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/ronald-pineda/"><i class="fa-brands fa-linkedin"></i>
                 </a></div>
-            <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com">
+            <div class="col-12 col-sm-3" style="color: red;">Sponsor <a href="https://depcsuite.com" style="color: red;">
                  DePC Suite</a></div>
-            <div class="col-12 col-sm-3"><a href="mailto:pineda-ronald@hotmail.com">
+            <div class="col-12 col-sm-3" style="color: red;"><a href="mailto:pineda-ronald@hotmail.com" style="color: red;">
                  pineda-ronald@hotmail.com</a></div>
         </div>
     </footer>
